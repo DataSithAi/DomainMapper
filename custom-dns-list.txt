@@ -4,3 +4,4 @@ gemini.google.com
 
 exemple.ru
 1.exemple.com
+
